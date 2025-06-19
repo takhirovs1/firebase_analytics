@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622567580673",
+    "project_id": "fir-analitic-664cd",
+    "storage_bucket": "fir-analitic-664cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622567580673:android:b1913e149bfbb1598f8c00",
+        "android_client_info": {
+          "package_name": "com.example.firebase_analitic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqvCFpC0qXxipfgAO1GKzKAvv7P6lJwxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
